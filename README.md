@@ -8,7 +8,7 @@ Este repositorio contiene el material necesario para el libro _____
 ## Contacto
 | Name | Sitio | Correo electrónico |
 | ---- | -------- | ----- |
-| Alejandro E. Rodríguez-Sánchez | neuronal.red | ```alejandro(at)neuronal.red```
+| Alejandro E. Rodríguez-Sánchez | neuronal.red | ```alejandro(arroba)neuronal.red```
 
 ## Citación recomendada
 
