@@ -11,7 +11,7 @@ Este repositorio contiene el material necesario para el libro «Redes neuronales
 ## Citación recomendada
 
 ```
-Rodríguez-Sánchez, A. E. Redes neuronales artificiales: principios y aplicaciones. Alejandro E. Rodríguez-Sánchez, 2023. 
+Rodríguez-Sánchez, A. E. (2023). Redes neuronales artificiales: principios y aplicaciones.
 ```
 ##### Copyright
 - **Los códigos Jupyter** de este repositorio están bajo [licencia CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
