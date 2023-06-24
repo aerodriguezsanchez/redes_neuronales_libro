@@ -1,7 +1,6 @@
 ## Redes Neuronales Artificiales
 
-Este repositorio contiene el material necesario para el libro _____
-
+Este repositorio contiene el material necesario para el libro «Redes neuronales artificiales: principios y aplicaciones».
 
 
 
