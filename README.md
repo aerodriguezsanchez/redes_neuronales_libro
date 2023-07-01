@@ -1,6 +1,6 @@
 ## Redes Neuronales Artificiales
 
-Este repositorio contiene el material necesario para el libro «Redes neuronales artificiales: principios y aplicaciones». Los códigos del libro los podrá encontrar [**AQUÍ**](https://github.com/aerodriguezsanchez/redes_neuronales_libro/blob/main/redes_neuronales_artificiales_libro.ipynb).
+Este repositorio contiene el material necesario para el libro [*«Redes neuronales artificiales: principios y aplicaciones»*](https://a.co/d/7XRrhav). Los códigos del libro los podrá encontrar [**AQUÍ**](https://github.com/aerodriguezsanchez/redes_neuronales_libro/blob/main/redes_neuronales_artificiales_libro.ipynb).
 
 
 ## Contacto
